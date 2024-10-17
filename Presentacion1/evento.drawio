@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Página-1" id="1OGFNrSigyXdEZB6HrvP">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JbYub-W5rx5nx0I7siHM-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Evento&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="50" height="405" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Es un resultado o conjunto de resultados de un experimento aleatorio. Un evento puede ser considerado como cualquier suceso o conjunto de sucesos que estamos interesados en observar o analizar cuando realizamos un experimento.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-4" value="Tipos de eventos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-5" value="&lt;strong&gt;Evento simple&lt;/strong&gt;: Es un solo resultado posible de un experimento.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-6" value="&lt;strong&gt;Evento compuesto&lt;/strong&gt;: Es un conjunto de dos o más resultados posibles." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-7" value="&lt;strong&gt;Evento seguro&lt;/strong&gt;: Es el evento que siempre ocurre." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-8" value="&lt;strong&gt;Evento imposible&lt;/strong&gt;: Es un evento que no puede ocurrir." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-9" value="&lt;strong&gt;Evento independiente&lt;/strong&gt;: Dos eventos son independientes si la ocurrencia de uno no afecta la probabilidad de que ocurra el otro.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-10" value="&lt;strong&gt;Evento dependiente&lt;/strong&gt;: Dos eventos son dependientes si la ocurrencia de uno afecta la probabilidad de que ocurra el otro.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="430" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JbYub-W5rx5nx0I7siHM-11" value="&lt;strong&gt;Evento mutuamente excluyente&lt;/strong&gt;: Dos eventos son mutuamente excluyentes si no pueden ocurrir al mismo tiempo." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="340" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
